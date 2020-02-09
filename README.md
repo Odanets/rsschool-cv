@@ -1,0 +1,1 @@
+https://odanets.github.io/rsschool-cv/cv
