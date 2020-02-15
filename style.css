@@ -1,0 +1,14 @@
+body {
+    text-align: left;
+    font-family: "Tahoma", sans-serif;
+    background-color: lightgray;
+}
+
+header, main {
+    width: 1024px;
+
+}
+section {
+    margin-left: 8em;
+    margin-top: 2em;
+}
