@@ -4,8 +4,8 @@ body {
     background-color: lightgray;
 }
 
-header {
-    
+header, main {
+    width: 1024px;
 
 }
 section {
